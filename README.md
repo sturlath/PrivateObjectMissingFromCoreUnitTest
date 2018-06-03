@@ -1,4 +1,4 @@
-# PrivateObjectMissingFromCoreUnitTest
+# PrivateObject Missing From MsTest .Core 
 Just a demo for PrivateObject  and how its missing from MSTest .net Core unittest project.
 
 I made it work for .net Framework using https://www.infragistics.com/community/blogs/b/dhananjay_kumar/posts/how-to-unit-test-private-methods-in-ms-test as a reference.
