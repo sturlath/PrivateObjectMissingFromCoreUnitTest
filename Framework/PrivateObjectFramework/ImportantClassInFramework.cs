@@ -1,4 +1,5 @@
-﻿namespace PrivateObjectFramework
+﻿
+namespace PrivateObjectFramework
 {
 	public class ImportantClassInFramework
 	{

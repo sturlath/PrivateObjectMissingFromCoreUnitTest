@@ -4,7 +4,7 @@ using System;
 namespace Standard.PrivateObjectStandardTests.ImportantClassInStandard
 {
 	[TestClass]
-	public class PrivateMethod
+	public class PrivateMethodTests
 	{
 		[TestMethod]
 		public void TestPrivateMethodWithPrivateObject()

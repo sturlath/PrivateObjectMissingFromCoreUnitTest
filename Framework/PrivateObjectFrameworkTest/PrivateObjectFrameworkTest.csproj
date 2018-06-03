@@ -48,8 +48,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ImportantClassInFramework\PrivateMethod.cs" />
-    <Compile Include="ImportantClassInFramework\PublicMethod.cs" />
+    <Compile Include="ImportantClassInFramework\PrivateMethodTests.cs" />
+    <Compile Include="ImportantClassInFramework\PublicMethodTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

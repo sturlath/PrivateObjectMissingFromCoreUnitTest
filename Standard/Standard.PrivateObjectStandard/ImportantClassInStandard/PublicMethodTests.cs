@@ -3,7 +3,7 @@
 namespace Standard.PrivateObjectStandardTests.ImportantClassInStandard
 {
 	[TestClass]
-	public class PublicMethod
+	public class PublicMethodTests
 	{
 		[TestMethod]
 		public void NormalPublicMethod()
